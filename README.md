@@ -1,7 +1,1 @@
-# Evento Shell avançado com Slackjeff
-
-
-t
-t
-t
-t
+# Evento Shell avançado com [Slackjeff](https://slackjeff.com.br/)
